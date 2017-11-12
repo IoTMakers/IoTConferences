@@ -1,0 +1,8 @@
+title: IoTMakers Conferences
+description: List of conferences for IoT and Makers moviment
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
